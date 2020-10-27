@@ -1,6 +1,6 @@
 {
   "name": "w2w-api",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "W2WJSI: W2W Javascript Interface - RPC/API",
   "main": "index.js",
   "scripts": {
