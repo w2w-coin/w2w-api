@@ -1,0 +1,25 @@
+{
+  "name": "w2w-api",
+  "version": "1.0",
+  "description": "W2WJSI: W2W Javascript Interface - RPC/API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w2w-coin/w2w-api.git"
+  },
+  "keywords": [
+    "W2W",
+    "cryptocurrency",
+    "rpc",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w2w-coin/w2w-api/issues"
+  },
+  "homepage": "https://github.com/w2w-coin/w2w-api#readme"
+}
